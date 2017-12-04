@@ -1,0 +1,5 @@
+package hive_test;
+
+public class HiveJdbcClientv1 {
+
+}

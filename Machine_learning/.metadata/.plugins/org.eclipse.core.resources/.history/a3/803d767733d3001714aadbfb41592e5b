@@ -1,0 +1,34 @@
+package org.bizruntime.data_frame;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.RowFactory;
+import org.apache.spark.sql.SparkSession;
+
+public class Extractors {
+
+	public static void main(String[] args) 
+	{
+		SparkSession spark = SparkSession
+				  .builder()
+				  .appName("chisquare")
+				  .master("local[2]")
+				  .getOrCreate();
+		
+		TF_IDF();
+
+	}
+	private static void TF_IDF()
+	{
+		List<Row> data = Arrays.asList(
+				  RowFactory.create(0.0, "Hi I heard about Spark"),
+				  RowFactory.create(0.0, "I wish Java could use case classes"),
+				  RowFactory.create(1.0, "Logistic regression models are neat")
+				);
+		System.out.println(data);
+		
+	}
+
+}

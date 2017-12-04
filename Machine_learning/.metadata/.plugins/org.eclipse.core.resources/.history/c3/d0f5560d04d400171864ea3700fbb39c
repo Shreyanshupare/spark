@@ -1,0 +1,25 @@
+package org.bizruntime.algorithms;
+
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.SparkSession;
+
+public class K_means {
+//C:\Users\bizruntime41\Documents\java\workspace\Machine_learning\kmeans_data.txt
+	public static void main(String[] args)
+	{
+		SparkSession spark = SparkSession
+				  .builder()
+				  .appName("chisquare")
+				  .master("local[2]")
+				  .getOrCreate();
+		_kmeans(spark);
+
+	}
+	private static void _kmeans(SparkSession spark)
+	{
+		Dataset<Row> dataset = spark.read().format("libsvm").load("C:\\Users\\bizruntime41\\Documents\\java\\workspace\\Machine_learning\\kmeans_data.txt");
+		
+	}
+
+}

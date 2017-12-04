@@ -1,0 +1,17 @@
+package org.bizruntime.data_frame;
+
+import org.apache.spark.sql.SparkSession;
+
+public class Transformers {
+
+	public static void main(String[] args)
+	{
+		SparkSession spark = SparkSession
+				  .builder()
+				  .appName("chisquare")
+				  .master("local[2]")
+				  .getOrCreate();
+
+	}
+
+}

@@ -1,0 +1,39 @@
+package org.bizruntime.algorithms;
+
+import org.apache.spark.ml.clustering.KMeans;
+import org.apache.spark.ml.clustering.KMeansModel;
+import org.apache.spark.ml.linalg.Vector;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.SparkSession;
+
+public class K_means {
+
+	public static void main(String[] args)
+	{
+		SparkSession spark = SparkSession
+				  .builder()
+				  .appName("chisquare")
+				  .master("local[2]")
+				  .getOrCreate();
+		_kmeans(spark);
+
+	}
+	private static void _kmeans(SparkSession spark)
+	{
+		Dataset<Row> dataset = spark.read().format("libsvm").load("C:\\Users\\bizruntime41\\Documents\\java\\workspace\\Machine_learning\\sample_kmeans_data.txt");
+		KMeans kmeans = new KMeans().setK(1).setSeed(1L);
+		KMeansModel model = kmeans.fit(dataset);
+		
+		double WSSSE = model.computeCost(dataset);
+		System.out.println("Within Set Sum of Squared Errors = " + WSSSE);
+
+		// Shows the result.
+		Vector[] centers = model.clusterCenters();
+		System.out.println("Cluster Centers: ");
+		for (Vector center: centers) {
+		  System.out.println(center);
+		}
+	}
+
+}

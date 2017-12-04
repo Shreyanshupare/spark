@@ -1,0 +1,26 @@
+package SparkDataLake.dlProg;
+
+import java.util.Arrays;
+
+import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaRDD;
+import org.apache.spark.api.java.JavaSparkContext;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	public static void dLake() {
+		SparkConf conf = new SparkConf().setAppName("FirstDataLakeApp").setMaster("local[2]");
+    	JavaSparkContext sc = new JavaSparkContext(conf);
+    	String path = "adl://gou02rav32.azuredatalakestore.net/myFolder/Drivers.txt";
+    	JavaRDD<String> lines = sc.textFile(path);
+    	JavaRDD<String> filtering = lines.map(x -> Arrays.asList(x.split("/t"));
+	}
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

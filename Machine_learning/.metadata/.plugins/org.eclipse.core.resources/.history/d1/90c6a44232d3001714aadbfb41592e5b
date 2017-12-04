@@ -1,0 +1,15 @@
+package org.bizruntime.data_frame;
+
+public class Extractors {
+
+	public static void main(String[] args) 
+	{
+		TF_IDF();
+
+	}
+	private static void TF_IDF()
+	{
+		
+	}
+
+}

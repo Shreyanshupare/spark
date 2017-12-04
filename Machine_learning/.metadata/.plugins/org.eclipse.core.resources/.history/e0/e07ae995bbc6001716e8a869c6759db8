@@ -1,0 +1,53 @@
+package org.bizruntime.data_type;
+
+import org.apache.spark.mllib.linalg.Vector;
+import org.apache.spark.mllib.linalg.Vectors;
+import org.apache.spark.mllib.regression.LabeledPoint;
+import org.apache.spark.mllib.util.MLUtils;
+import org.apache.spark.SparkContext;
+import org.apache.spark.api.java.JavaRDD;
+
+
+
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	//Vector();
+    	Labelpoint();
+    	
+    }
+    public static void Vector()
+    {
+        Vector dv = Vectors.dense(1.0, 0.0, 3.0);
+    	
+    	System.out.println(dv);
+    	
+    	Vector sv = Vectors.sparse(3, new int[] {0, 2}, new double[] {1.0, 3.0});
+    	
+    	System.out.println(sv);
+    }
+    public static void Labelpoint()
+    {
+    	LabeledPoint dpos = new LabeledPoint(1.0, Vectors.dense(1.0, 0.0, 3.0));
+    	
+    	System.out.println(dpos);
+    	
+    	LabeledPoint dneg = new LabeledPoint(0.0, Vectors.dense(1.0, 0.0, 3.0));
+    	
+    	System.out.println(dneg);
+    	
+        LabeledPoint spos = new LabeledPoint(1.0, Vectors.sparse(3, new int[] {0, 2}, new double[] {1.0, 3.0}));
+    	
+    	System.out.println(spos);
+    	
+    	LabeledPoint sneg = new LabeledPoint(0.0, Vectors.sparse(3, new int[] {0, 2}, new double[] {1.0, 3.0}));
+    	
+    	System.out.println(sneg);
+    	
+    	SparkContext sc = new SparkContext();
+    	JavaRDD<LabeledPoint> examples =  MLUtils.loadLibSVMFile(sc, "C:\\Users\\bizruntime41\\Documents\\java\\workspace\\Machine_learning\\sample_libsvm_data.txt").toJavaRDD();
+        System.out.println(examples);
+    }
+}

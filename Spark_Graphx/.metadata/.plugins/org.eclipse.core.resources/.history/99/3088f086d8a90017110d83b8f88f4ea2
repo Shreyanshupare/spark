@@ -1,0 +1,50 @@
+import java.sql.*;
+public class example1 {
+	public static void main(String[] args) throws SQLException 
+	{
+
+	    //Variables to hold statements, connection, and results
+	    
+	    Statement stmt = null;
+	    Statement stmt2 = null;
+	    ResultSet res1 = null;
+	    ResultSet res2 = null;
+	    try{
+	    	Class.forName("org.apache.hadoop.hive.jdbc.HiveDriver");
+	    	Connection con = DriverManager.getConnection(
+					"jdbc:hive2://192.168.1.64:10000/default", "", "");
+	        stmt = con.createStatement();
+	        String sql =null;
+	        sql =  "SELECT * from pare";
+	        stmt.execute(sql);
+	        res1 = stmt.executeQuery(sql);
+	        while (res1.next()) {
+	            System.out.println(res1.getString(1) + "\t" + res1.getString(2));
+	        }
+	
+	    }
+	    catch (SQLException e )
+	    {
+	      e.getMessage();
+	      e.printStackTrace();
+	      System.exit(1);
+	    }
+	    catch(Exception ex)
+	    {
+	      ex.getMessage();
+	      ex.printStackTrace();
+	      System.exit(1);
+	    }
+	    //Close connections
+	    finally {
+	      if (res1!=null) res1.close();
+	      if (res2!=null) res2.close();
+	      if (stmt!=null) stmt.close();
+	      if (stmt2!=null) stmt2.close();
+	    }
+	  }
+
+		
+	}
+
+

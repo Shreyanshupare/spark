@@ -1,0 +1,18 @@
+package org.bizruntime.data_type;
+
+import org.apache.spark.mllib.linalg.Vector;
+import org.apache.spark.mllib.linalg.Vectors;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	Vector dv = Vectors.dense(1.0, 0.0, 3.0);
+    	
+    	System.out.println(dv);
+    	
+    	Vector sv = Vectors.sparse(3, new int[] {0, 2}, new double[] {1.0, 3.0});
+    	
+    	System.out.println(sv);
+    }
+}

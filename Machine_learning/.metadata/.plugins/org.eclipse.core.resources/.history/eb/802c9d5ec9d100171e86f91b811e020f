@@ -1,0 +1,19 @@
+package org.bizruntime.data_frame;
+
+import java.util.Arrays;
+
+import org.apache.spark.ml.Pipeline;
+import org.apache.spark.ml.PipelineModel;
+import org.apache.spark.ml.PipelineStage;
+import org.apache.spark.ml.classification.LogisticRegression;
+import org.apache.spark.ml.feature.HashingTF;
+import org.apache.spark.ml.feature.Tokenizer;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+
+public class Pipeline_df {
+	public static void main(String[] args) {
+		
+	}
+
+}

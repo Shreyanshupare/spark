@@ -1,0 +1,50 @@
+package org.bizruntime.data_frame;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.apache.spark.ml.classification.LogisticRegression;
+import org.apache.spark.ml.classification.LogisticRegressionModel;
+import org.apache.spark.ml.linalg.VectorUDT;
+import org.apache.spark.ml.linalg.Vectors;
+import org.apache.spark.ml.param.ParamMap;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.RowFactory;
+import org.apache.spark.sql.SparkSession;
+import org.apache.spark.sql.types.DataTypes;
+import org.apache.spark.sql.types.Metadata;
+import org.apache.spark.sql.types.StructField;
+import org.apache.spark.sql.types.StructType;
+
+public class Estimator_Transformer_Param 
+{
+	static SparkSession spark = SparkSession
+			  .builder()
+			  .appName("chisquare")
+			  .master("local[2]")
+			  .getOrCreate();
+	public static void main(String[] args) 
+	{
+		List<Row> dataTraining = Arrays.asList(
+			    RowFactory.create(1.0, Vectors.dense(0.0, 1.1, 0.1)),
+			    RowFactory.create(0.0, Vectors.dense(2.0, 1.0, -1.0)),
+			    RowFactory.create(0.0, Vectors.dense(2.0, 1.3, 1.0)),
+			    RowFactory.create(1.0, Vectors.dense(0.0, 1.2, -0.5))
+			);
+		StructType schema = new StructType(new StructField[]{
+			    new StructField("label", DataTypes.DoubleType, false, Metadata.empty()),
+			    new StructField("features", new VectorUDT(), false, Metadata.empty())
+			});
+		Dataset<Row> training = spark.createDataFrame(dataTraining, schema);
+		LogisticRegression lr = new LogisticRegression();
+		
+		//System.out.println("LogisticRegression parameters:\n" + lr.explainParams() + "\n");
+		System.out.println("LR");
+		LogisticRegression u = lr.setMaxIter(10).setRegParam(0.01);
+		System.out.println(u);
+
+	}
+	
+
+}

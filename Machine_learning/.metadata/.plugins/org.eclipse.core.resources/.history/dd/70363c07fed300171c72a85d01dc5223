@@ -1,0 +1,15 @@
+package org.bizruntime.algorithms;
+
+public class K_means {
+//C:\Users\bizruntime41\Documents\java\workspace\Machine_learning\kmeans_data.txt
+	public static void main(String[] args)
+	{
+		_kmeans();
+
+	}
+	private static void _kmeans()
+	{
+		
+	}
+
+}

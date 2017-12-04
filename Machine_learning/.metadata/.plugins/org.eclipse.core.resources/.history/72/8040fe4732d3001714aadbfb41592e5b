@@ -1,0 +1,22 @@
+package org.bizruntime.data_frame;
+
+import org.apache.spark.sql.SparkSession;
+
+public class Extractors {
+
+	public static void main(String[] args) 
+	{
+		SparkSession spark = SparkSession
+				  .builder()
+				  .appName("chisquare")
+				  .master("local[2]")
+				  .getOrCreate();
+		TF_IDF();
+
+	}
+	private static void TF_IDF()
+	{
+		
+	}
+
+}

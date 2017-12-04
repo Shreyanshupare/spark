@@ -1,0 +1,5 @@
+package sparkStreamingPorg.streams;
+
+public class JavaStateFullWordCount {
+
+}

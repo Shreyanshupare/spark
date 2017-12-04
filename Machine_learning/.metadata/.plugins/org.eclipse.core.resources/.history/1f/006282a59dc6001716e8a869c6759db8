@@ -1,0 +1,9 @@
+package org.bizruntime.data_type;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

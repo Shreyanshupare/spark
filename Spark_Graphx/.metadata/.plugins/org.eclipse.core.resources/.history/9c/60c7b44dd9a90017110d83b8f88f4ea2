@@ -1,0 +1,32 @@
+import java.sql.*;
+public class example1 {
+	public static void main(String[] args) throws SQLException 
+	{
+
+	    //Variables to hold statements, connection, and results
+	    
+	   
+	  }
+
+	
+	public void execute() throws SQLException {
+		//mLogger.info("Start HiveJob");
+		System.out.println("Start HiveJob");
+		try {
+		Class.forName("org.apache.hive.jdbc.HiveDriver");
+		} catch (ClassNotFoundException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+		System.exit(1);
+		}
+		Connection con = DriverManager.getConnection("jdbc:hive2://localhost:10000", "", "");
+		//Connection con = DriverManager.getConnection("jdbc:hive2://localhost:10000", "root", "");
+		//Statement stmt = con.createStatement();
+		String sql = "SHOW TABLES";
+		System.out.println("Running: " + sql);
+		System.out.println("HiveJob executed!");
+		}
+		
+	}
+
+

@@ -1,0 +1,40 @@
+package hive_test;
+
+import java.security.PrivilegedExceptionAction;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+import javax.security.auth.Subject;
+
+public class HiveJdbcClientv1 {
+	
+	private static String driverName = "org.apache.hive.jdbc.HiveDriver";
+	public static void main(String[] args) throws SQLException {
+		
+	}
+	
+
+static Connection getConnection( Subject signedOnUserSubject ) throws Exception{
+       Connection conn = (Connection) Subject.doAs(signedOnUserSubject, new PrivilegedExceptionAction<Object>()
+           {
+               public Object run()
+               {
+                       Connection con = null;
+                       String JDBC_DB_URL = "jdbc:hive2://HiveHost:10000/default;" +
+                                              "principal=hive/localhost.localdomain@EXAMPLE.COM;" +
+                                              "auth=kerberos;kerberosAuthType=fromSubject";
+                       try {
+                               Class.forName("");
+                               con =  DriverManager.getConnection(JDBC_DB_URL);
+                       } catch (SQLException e) {
+                               e.printStackTrace();
+                       } catch (ClassNotFoundException e) {
+                               e.printStackTrace();
+                       }
+                       return con;
+               }
+           });
+       return conn;
+}
+}

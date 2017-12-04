@@ -1,0 +1,830 @@
+2017-10-04 17:18:51,922 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-04 17:19:50,066 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\pom.xml
+2017-10-04 17:19:54,189 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:Basic:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\pom.xml.
+2017-10-04 17:19:55,013 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Basic/src/main/java
+2017-10-04 17:19:55,020 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Basic/src/test/java
+2017-10-04 17:19:55,959 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-10-04 17:19:56,668 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:19:56,668 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:19:56,671 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:19:56,671 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:20:10,177 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:20:10,177 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:20:10,179 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:20:10,179 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:20:19,362 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-04 17:20:19,856 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:Basic:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\pom.xml.
+2017-10-04 17:20:20,244 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Basic/src/main/java
+2017-10-04 17:20:20,245 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Basic/src/test/java
+2017-10-04 17:20:20,345 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-10-04 17:20:20,554 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:20:20,555 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:20:20,557 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:20:20,557 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:23:45,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:45,552 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:23:45,553 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:45,554 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:23:51,361 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:51,362 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:23:51,363 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:51,363 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:23:55,447 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:55,447 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:23:55,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:23:55,449 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:24:02,786 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:24:02,786 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:24:02,788 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:24:02,788 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:25:17,031 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:Basic:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\pom.xml.
+2017-10-04 17:25:18,513 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-graphx_2.10/2.2.0/spark-graphx_2.10-2.2.0.pom
+2017-10-04 17:25:18,822 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-graphx_2.10/2.2.0/spark-graphx_2.10-2.2.0.pom
+2017-10-04 17:25:19,096 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-parent_2.10/2.2.0/spark-parent_2.10-2.2.0.pom
+2017-10-04 17:25:19,908 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-parent_2.10/2.2.0/spark-parent_2.10-2.2.0.pom
+2017-10-04 17:25:20,231 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.10/2.2.0/spark-core_2.10-2.2.0.pom
+2017-10-04 17:25:20,508 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.10/2.2.0/spark-core_2.10-2.2.0.pom
+2017-10-04 17:25:21,673 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.pom
+2017-10-04 17:25:21,936 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.pom
+2017-10-04 17:25:22,204 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.6.5/hadoop-project-dist-2.6.5.pom
+2017-10-04 17:25:22,476 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.6.5/hadoop-project-dist-2.6.5.pom
+2017-10-04 17:25:22,738 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.6.5/hadoop-project-2.6.5.pom
+2017-10-04 17:25:23,034 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.6.5/hadoop-project-2.6.5.pom
+2017-10-04 17:25:23,354 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.6.5/hadoop-main-2.6.5.pom
+2017-10-04 17:25:23,725 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.6.5/hadoop-main-2.6.5.pom
+2017-10-04 17:25:24,030 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.pom
+2017-10-04 17:25:24,299 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.pom
+2017-10-04 17:25:24,578 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.pom
+2017-10-04 17:25:24,874 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.pom
+2017-10-04 17:25:25,869 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.pom
+2017-10-04 17:25:26,126 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.pom
+2017-10-04 17:25:27,079 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.pom
+2017-10-04 17:25:27,338 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.pom
+2017-10-04 17:25:27,597 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/htrace/htrace/3.0.4/htrace-3.0.4.pom
+2017-10-04 17:25:27,853 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/htrace/htrace/3.0.4/htrace-3.0.4.pom
+2017-10-04 17:25:28,142 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.pom
+2017-10-04 17:25:28,421 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.pom
+2017-10-04 17:25:28,873 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.pom
+2017-10-04 17:25:29,128 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.pom
+2017-10-04 17:25:29,415 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.6.5/hadoop-mapreduce-client-2.6.5.pom
+2017-10-04 17:25:29,677 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.6.5/hadoop-mapreduce-client-2.6.5.pom
+2017-10-04 17:25:29,972 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.pom
+2017-10-04 17:25:30,227 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.pom
+2017-10-04 17:25:30,516 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.pom
+2017-10-04 17:25:30,780 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.pom
+2017-10-04 17:25:31,068 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.6.5/hadoop-yarn-2.6.5.pom
+2017-10-04 17:25:31,332 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.6.5/hadoop-yarn-2.6.5.pom
+2017-10-04 17:25:31,604 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.pom
+2017-10-04 17:25:31,859 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.pom
+2017-10-04 17:25:32,687 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.pom
+2017-10-04 17:25:32,975 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.pom
+2017-10-04 17:25:33,237 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.pom
+2017-10-04 17:25:33,495 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.pom
+2017-10-04 17:25:33,796 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.pom
+2017-10-04 17:25:34,055 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.pom
+2017-10-04 17:25:34,332 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.6.5/hadoop-yarn-server-2.6.5.pom
+2017-10-04 17:25:34,589 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.6.5/hadoop-yarn-server-2.6.5.pom
+2017-10-04 17:25:34,986 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.pom
+2017-10-04 17:25:35,242 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.pom
+2017-10-04 17:25:35,505 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.pom
+2017-10-04 17:25:35,768 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.pom
+2017-10-04 17:25:36,045 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.6.5/hadoop-yarn-server-nodemanager-2.6.5.pom
+2017-10-04 17:25:36,308 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.6.5/hadoop-yarn-server-nodemanager-2.6.5.pom
+2017-10-04 17:25:36,633 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.10/2.2.0/spark-launcher_2.10-2.2.0.pom
+2017-10-04 17:25:36,905 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.10/2.2.0/spark-launcher_2.10-2.2.0.pom
+2017-10-04 17:25:37,181 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.10/2.2.0/spark-tags_2.10-2.2.0.pom
+2017-10-04 17:25:37,439 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.10/2.2.0/spark-tags_2.10-2.2.0.pom
+2017-10-04 17:25:37,837 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.10/2.2.0/spark-network-common_2.10-2.2.0.pom
+2017-10-04 17:25:38,151 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.10/2.2.0/spark-network-common_2.10-2.2.0.pom
+2017-10-04 17:25:38,464 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.43.Final/netty-all-4.0.43.Final.pom
+2017-10-04 17:25:38,743 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.43.Final/netty-all-4.0.43.Final.pom
+2017-10-04 17:25:39,015 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.43.Final/netty-parent-4.0.43.Final.pom
+2017-10-04 17:25:39,358 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.43.Final/netty-parent-4.0.43.Final.pom
+2017-10-04 17:25:39,953 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.10/2.2.0/spark-network-shuffle_2.10-2.2.0.pom
+2017-10-04 17:25:40,209 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.10/2.2.0/spark-network-shuffle_2.10-2.2.0.pom
+2017-10-04 17:25:40,540 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.10/2.2.0/spark-unsafe_2.10-2.2.0.pom
+2017-10-04 17:25:40,795 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.10/2.2.0/spark-unsafe_2.10-2.2.0.pom
+2017-10-04 17:25:43,122 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.pom
+2017-10-04 17:25:43,403 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.pom
+2017-10-04 17:25:43,943 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-mllib-local_2.10/2.2.0/spark-mllib-local_2.10-2.2.0.pom
+2017-10-04 17:25:44,198 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-mllib-local_2.10/2.2.0/spark-mllib-local_2.10-2.2.0.pom
+2017-10-04 17:25:44,458 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalanlp/breeze_2.10/0.13.1/breeze_2.10-0.13.1.pom
+2017-10-04 17:25:44,714 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalanlp/breeze_2.10/0.13.1/breeze_2.10-0.13.1.pom
+2017-10-04 17:25:44,973 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalanlp/breeze-macros_2.10/0.13.1/breeze-macros_2.10-0.13.1.pom
+2017-10-04 17:25:45,234 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalanlp/breeze-macros_2.10/0.13.1/breeze-macros_2.10-0.13.1.pom
+2017-10-04 17:25:45,491 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+2017-10-04 17:25:45,746 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+2017-10-04 17:25:46,149 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/spire-math/spire_2.10/0.13.0/spire_2.10-0.13.0.pom
+2017-10-04 17:25:46,404 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/spire-math/spire_2.10/0.13.0/spire_2.10-0.13.0.pom
+2017-10-04 17:25:46,662 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/spire-math/spire-macros_2.10/0.13.0/spire-macros_2.10-0.13.0.pom
+2017-10-04 17:25:46,923 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/spire-math/spire-macros_2.10/0.13.0/spire-macros_2.10-0.13.0.pom
+2017-10-04 17:25:47,180 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/typelevel/machinist_2.10/0.6.1/machinist_2.10-0.6.1.pom
+2017-10-04 17:25:47,438 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/typelevel/machinist_2.10/0.6.1/machinist_2.10-0.6.1.pom
+2017-10-04 17:25:47,777 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/chuusai/shapeless_2.10/2.3.2/shapeless_2.10-2.3.2.pom
+2017-10-04 17:25:48,035 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/chuusai/shapeless_2.10/2.3.2/shapeless_2.10-2.3.2.pom
+2017-10-04 17:25:48,295 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/typelevel/macro-compat_2.10/1.1.1/macro-compat_2.10-1.1.1.pom
+2017-10-04 17:25:48,549 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/typelevel/macro-compat_2.10/1.1.1/macro-compat_2.10-1.1.1.pom
+2017-10-04 17:25:49,004 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-graphx_2.10/2.2.0/spark-graphx_2.10-2.2.0.jar
+2017-10-04 17:25:50,300 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-graphx_2.10/2.2.0/spark-graphx_2.10-2.2.0.jar
+2017-10-04 17:25:50,551 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.10/2.2.0/spark-core_2.10-2.2.0.jar
+2017-10-04 17:25:52,078 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.10/2.2.0/spark-core_2.10-2.2.0.jar
+2017-10-04 17:25:52,327 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar
+2017-10-04 17:25:52,582 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.5/hadoop-client-2.6.5.jar
+2017-10-04 17:25:52,835 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar
+2017-10-04 17:25:53,222 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar
+2017-10-04 17:25:53,477 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar
+2017-10-04 17:25:53,735 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.5/hadoop-auth-2.6.5.jar
+2017-10-04 17:25:53,985 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar
+2017-10-04 17:25:54,245 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/htrace/htrace-core/3.0.4/htrace-core-3.0.4.jar
+2017-10-04 17:25:54,493 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar
+2017-10-04 17:25:55,054 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.5/hadoop-hdfs-2.6.5.jar
+2017-10-04 17:25:55,319 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar
+2017-10-04 17:25:55,590 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.5/hadoop-mapreduce-client-app-2.6.5.jar
+2017-10-04 17:25:55,841 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar
+2017-10-04 17:25:56,115 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.5/hadoop-mapreduce-client-common-2.6.5.jar
+2017-10-04 17:25:56,363 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar
+2017-10-04 17:25:56,623 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.5/hadoop-yarn-client-2.6.5.jar
+2017-10-04 17:25:56,876 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar
+2017-10-04 17:25:57,145 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.6.5/hadoop-yarn-server-common-2.6.5.jar
+2017-10-04 17:25:57,396 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar
+2017-10-04 17:25:57,652 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.5/hadoop-mapreduce-client-shuffle-2.6.5.jar
+2017-10-04 17:25:57,905 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar
+2017-10-04 17:25:58,227 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.6.5/hadoop-yarn-api-2.6.5.jar
+2017-10-04 17:25:58,480 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar
+2017-10-04 17:25:58,787 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar
+2017-10-04 17:25:59,042 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar
+2017-10-04 17:25:59,352 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.6.5/hadoop-yarn-common-2.6.5.jar
+2017-10-04 17:25:59,601 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar
+2017-10-04 17:25:59,858 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.5/hadoop-mapreduce-client-jobclient-2.6.5.jar
+2017-10-04 17:26:00,136 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar
+2017-10-04 17:26:00,393 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.6.5/hadoop-annotations-2.6.5.jar
+2017-10-04 17:26:00,643 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.10/2.2.0/spark-launcher_2.10-2.2.0.jar
+2017-10-04 17:26:00,900 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.10/2.2.0/spark-launcher_2.10-2.2.0.jar
+2017-10-04 17:26:01,163 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.10/2.2.0/spark-network-common_2.10-2.2.0.jar
+2017-10-04 17:26:01,497 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.10/2.2.0/spark-network-common_2.10-2.2.0.jar
+2017-10-04 17:26:01,747 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.10/2.2.0/spark-network-shuffle_2.10-2.2.0.jar
+2017-10-04 17:26:02,004 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.10/2.2.0/spark-network-shuffle_2.10-2.2.0.jar
+2017-10-04 17:26:02,253 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.10/2.2.0/spark-unsafe_2.10-2.2.0.jar
+2017-10-04 17:26:02,509 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.10/2.2.0/spark-unsafe_2.10-2.2.0.jar
+2017-10-04 17:26:02,761 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar
+2017-10-04 17:26:03,028 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3.jar
+2017-10-04 17:26:03,281 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar
+2017-10-04 17:26:03,555 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar
+2017-10-04 17:26:03,802 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.8/commons-codec-1.8.jar
+2017-10-04 17:26:04,067 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.8/commons-codec-1.8.jar
+2017-10-04 17:26:04,322 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.43.Final/netty-all-4.0.43.Final.jar
+2017-10-04 17:26:04,658 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.43.Final/netty-all-4.0.43.Final.jar
+2017-10-04 17:26:04,914 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.jar
+2017-10-04 17:26:05,209 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.jar
+2017-10-04 17:26:05,462 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-mllib-local_2.10/2.2.0/spark-mllib-local_2.10-2.2.0.jar
+2017-10-04 17:26:05,724 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-mllib-local_2.10/2.2.0/spark-mllib-local_2.10-2.2.0.jar
+2017-10-04 17:26:05,972 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalanlp/breeze_2.10/0.13.1/breeze_2.10-0.13.1.jar
+2017-10-04 17:26:07,155 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalanlp/breeze_2.10/0.13.1/breeze_2.10-0.13.1.jar
+2017-10-04 17:26:07,410 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalanlp/breeze-macros_2.10/0.13.1/breeze-macros_2.10-0.13.1.jar
+2017-10-04 17:26:07,672 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalanlp/breeze-macros_2.10/0.13.1/breeze-macros_2.10-0.13.1.jar
+2017-10-04 17:26:07,925 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.jar
+2017-10-04 17:26:08,208 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.jar
+2017-10-04 17:26:08,458 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/spire-math/spire_2.10/0.13.0/spire_2.10-0.13.0.jar
+2017-10-04 17:26:09,080 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/spire-math/spire_2.10/0.13.0/spire_2.10-0.13.0.jar
+2017-10-04 17:26:09,330 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/spire-math/spire-macros_2.10/0.13.0/spire-macros_2.10-0.13.0.jar
+2017-10-04 17:26:09,588 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/spire-math/spire-macros_2.10/0.13.0/spire-macros_2.10-0.13.0.jar
+2017-10-04 17:26:09,844 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/typelevel/machinist_2.10/0.6.1/machinist_2.10-0.6.1.jar
+2017-10-04 17:26:10,099 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/typelevel/machinist_2.10/0.6.1/machinist_2.10-0.6.1.jar
+2017-10-04 17:26:10,355 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/chuusai/shapeless_2.10/2.3.2/shapeless_2.10-2.3.2.jar
+2017-10-04 17:26:10,758 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/chuusai/shapeless_2.10/2.3.2/shapeless_2.10-2.3.2.jar
+2017-10-04 17:26:11,008 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/typelevel/macro-compat_2.10/1.1.1/macro-compat_2.10-1.1.1.jar
+2017-10-04 17:26:11,269 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/typelevel/macro-compat_2.10/1.1.1/macro-compat_2.10-1.1.1.jar
+2017-10-04 17:26:11,520 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.10/2.2.0/spark-tags_2.10-2.2.0.jar
+2017-10-04 17:26:11,774 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.10/2.2.0/spark-tags_2.10-2.2.0.jar
+2017-10-04 17:26:21,406 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:26:21,406 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:26:21,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:26:21,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 17:26:23,728 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:Basic:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\pom.xml.
+2017-10-04 17:26:25,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:26:25,127 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 17:26:25,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 17:26:25,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-04 19:10:05,447 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 19:10:05,449 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\main\resources
+2017-10-04 19:10:05,450 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 19:10:05,451 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\Basic\src\test\resources
+2017-10-05 17:33:47,504 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-05 17:34:14,549 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml
+2017-10-05 17:34:23,648 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:34:25,209 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/main/java
+2017-10-05 17:34:25,216 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/test/java
+2017-10-05 17:34:25,549 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2017-10-05 17:34:26,857 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:26,858 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:34:26,860 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:26,860 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:34:52,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:52,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:34:52,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:52,266 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:34:58,714 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:58,715 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:34:58,716 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:34:58,716 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:35:24,273 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:35:24,274 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:35:24,276 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:35:24,276 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:35:39,340 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:35:39,340 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:35:39,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:35:39,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:36:34,984 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:36:34,984 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:36:34,985 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:36:34,986 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:38:02,257 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:38:03,820 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-jdbc/2.3.0/hive-jdbc-2.3.0.pom
+2017-10-05 17:38:04,104 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-jdbc/2.3.0/hive-jdbc-2.3.0.pom
+2017-10-05 17:38:04,392 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive/2.3.0/hive-2.3.0.pom
+2017-10-05 17:38:05,002 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive/2.3.0/hive-2.3.0.pom
+2017-10-05 17:38:05,337 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-common/2.3.0/hive-common-2.3.0.pom
+2017-10-05 17:38:05,597 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-common/2.3.0/hive-common-2.3.0.pom
+2017-10-05 17:38:05,883 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-shims/2.3.0/hive-shims-2.3.0.pom
+2017-10-05 17:38:07,013 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-shims/2.3.0/hive-shims-2.3.0.pom
+2017-10-05 17:38:07,385 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-common/2.3.0/hive-shims-common-2.3.0.pom
+2017-10-05 17:38:07,698 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-common/2.3.0/hive-shims-common-2.3.0.pom
+2017-10-05 17:38:08,852 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-0.23/2.3.0/hive-shims-0.23-2.3.0.pom
+2017-10-05 17:38:09,196 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-0.23/2.3.0/hive-shims-0.23-2.3.0.pom
+2017-10-05 17:38:09,513 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-resourcemanager/2.7.2/hadoop-yarn-server-resourcemanager-2.7.2.pom
+2017-10-05 17:38:09,846 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-resourcemanager/2.7.2/hadoop-yarn-server-resourcemanager-2.7.2.pom
+2017-10-05 17:38:10,113 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.7.2/hadoop-yarn-server-2.7.2.pom
+2017-10-05 17:38:10,373 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.7.2/hadoop-yarn-server-2.7.2.pom
+2017-10-05 17:38:10,641 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.7.2/hadoop-yarn-2.7.2.pom
+2017-10-05 17:38:10,907 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.7.2/hadoop-yarn-2.7.2.pom
+2017-10-05 17:38:11,335 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.7.2/hadoop-annotations-2.7.2.pom
+2017-10-05 17:38:11,615 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.7.2/hadoop-annotations-2.7.2.pom
+2017-10-05 17:38:12,599 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.7.2/hadoop-yarn-common-2.7.2.pom
+2017-10-05 17:38:12,918 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.7.2/hadoop-yarn-common-2.7.2.pom
+2017-10-05 17:38:13,206 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.7.2/hadoop-yarn-api-2.7.2.pom
+2017-10-05 17:38:13,469 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.7.2/hadoop-yarn-api-2.7.2.pom
+2017-10-05 17:38:14,094 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.7.2/hadoop-yarn-server-common-2.7.2.pom
+2017-10-05 17:38:14,368 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.7.2/hadoop-yarn-server-common-2.7.2.pom
+2017-10-05 17:38:14,699 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/2.7.2/hadoop-yarn-server-applicationhistoryservice-2.7.2.pom
+2017-10-05 17:38:14,978 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-applicationhistoryservice/2.7.2/hadoop-yarn-server-applicationhistoryservice-2.7.2.pom
+2017-10-05 17:38:15,311 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.7.2/hadoop-yarn-server-web-proxy-2.7.2.pom
+2017-10-05 17:38:15,588 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.7.2/hadoop-yarn-server-web-proxy-2.7.2.pom
+2017-10-05 17:38:15,939 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-scheduler/2.3.0/hive-shims-scheduler-2.3.0.pom
+2017-10-05 17:38:16,218 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/shims/hive-shims-scheduler/2.3.0/hive-shims-scheduler-2.3.0.pom
+2017-10-05 17:38:16,490 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-storage-api/2.3.0/hive-storage-api-2.3.0.pom
+2017-10-05 17:38:16,769 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-storage-api/2.3.0/hive-storage-api-2.3.0.pom
+2017-10-05 17:38:17,110 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/orc/orc-core/1.3.3/orc-core-1.3.3.pom
+2017-10-05 17:38:17,377 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/orc/orc-core/1.3.3/orc-core-1.3.3.pom
+2017-10-05 17:38:17,659 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/orc/orc/1.3.3/orc-1.3.3.pom
+2017-10-05 17:38:18,014 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/orc/orc/1.3.3/orc-1.3.3.pom
+2017-10-05 17:38:18,300 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/airlift/aircompressor/0.3/aircompressor-0.3.pom
+2017-10-05 17:38:18,569 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/airlift/aircompressor/0.3/aircompressor-0.3.pom
+2017-10-05 17:38:18,859 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/airlift/airbase/49/airbase-49.pom
+2017-10-05 17:38:19,526 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/airlift/airbase/49/airbase-49.pom
+2017-10-05 17:38:20,551 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.1/joda-time-2.8.1.pom
+2017-10-05 17:38:20,886 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.1/joda-time-2.8.1.pom
+2017-10-05 17:38:21,186 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-1.2-api/2.6.2/log4j-1.2-api-2.6.2.pom
+2017-10-05 17:38:21,458 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-1.2-api/2.6.2/log4j-1.2-api-2.6.2.pom
+2017-10-05 17:38:21,777 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-web/2.6.2/log4j-web-2.6.2.pom
+2017-10-05 17:38:22,072 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-web/2.6.2/log4j-web-2.6.2.pom
+2017-10-05 17:38:22,525 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/tdunning/json/1.8/json-1.8.pom
+2017-10-05 17:38:22,793 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/tdunning/json/1.8/json-1.8.pom
+2017-10-05 17:38:23,054 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.pom
+2017-10-05 17:38:23,315 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.pom
+2017-10-05 17:38:23,580 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/3.1.0/metrics-parent-3.1.0.pom
+2017-10-05 17:38:23,873 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/3.1.0/metrics-parent-3.1.0.pom
+2017-10-05 17:38:24,160 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-jvm/3.1.0/metrics-jvm-3.1.0.pom
+2017-10-05 17:38:24,435 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-jvm/3.1.0/metrics-jvm-3.1.0.pom
+2017-10-05 17:38:24,697 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-json/3.1.0/metrics-json-3.1.0.pom
+2017-10-05 17:38:24,962 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-json/3.1.0/metrics-json-3.1.0.pom
+2017-10-05 17:38:25,525 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/joshelser/dropwizard-metrics-hadoop-metrics2-reporter/0.1.2/dropwizard-metrics-hadoop-metrics2-reporter-0.1.2.pom
+2017-10-05 17:38:25,800 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/joshelser/dropwizard-metrics-hadoop-metrics2-reporter/0.1.2/dropwizard-metrics-hadoop-metrics2-reporter-0.1.2.pom
+2017-10-05 17:38:26,107 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.pom
+2017-10-05 17:38:26,495 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.pom
+2017-10-05 17:38:26,777 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.6.0/hadoop-project-dist-2.6.0.pom
+2017-10-05 17:38:27,100 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.6.0/hadoop-project-dist-2.6.0.pom
+2017-10-05 17:38:28,275 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.datanucleus.org/downloads/maven2/net/java/dev/jets3t/jets3t/0.9.0/jets3t-0.9.0.pom
+2017-10-05 17:38:29,049 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.0/hadoop-auth-2.6.0.pom
+2017-10-05 17:38:29,328 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.6.0/hadoop-auth-2.6.0.pom
+2017-10-05 17:38:29,921 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.14/slf4j-api-1.7.14.pom
+2017-10-05 17:38:30,192 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.14/slf4j-api-1.7.14.pom
+2017-10-05 17:38:30,462 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.14/slf4j-parent-1.7.14.pom
+2017-10-05 17:38:30,766 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.14/slf4j-parent-1.7.14.pom
+2017-10-05 17:38:31,045 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-service/2.3.0/hive-service-2.3.0.pom
+2017-10-05 17:38:31,336 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-service/2.3.0/hive-service-2.3.0.pom
+2017-10-05 17:38:31,615 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-metastore/2.3.0/hive-metastore-2.3.0.pom
+2017-10-05 17:38:31,928 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-metastore/2.3.0/hive-metastore-2.3.0.pom
+2017-10-05 17:38:32,248 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-serde/2.3.0/hive-serde-2.3.0.pom
+2017-10-05 17:38:32,511 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-serde/2.3.0/hive-serde-2.3.0.pom
+2017-10-05 17:38:32,780 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-service-rpc/2.3.0/hive-service-rpc-2.3.0.pom
+2017-10-05 17:38:33,037 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-service-rpc/2.3.0/hive-service-rpc-2.3.0.pom
+2017-10-05 17:38:33,299 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp-api/2.0/jsp-api-2.0.pom
+2017-10-05 17:38:33,570 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp-api/2.0/jsp-api-2.0.pom
+2017-10-05 17:38:34,050 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/parquet/parquet-hadoop-bundle/1.8.1/parquet-hadoop-bundle-1.8.1.pom
+2017-10-05 17:38:34,326 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/parquet/parquet-hadoop-bundle/1.8.1/parquet-hadoop-bundle-1.8.1.pom
+2017-10-05 17:38:34,728 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-client/1.1.1/hbase-client-1.1.1.pom
+2017-10-05 17:38:35,028 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-client/1.1.1/hbase-client-1.1.1.pom
+2017-10-05 17:38:35,308 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase/1.1.1/hbase-1.1.1.pom
+2017-10-05 17:38:35,998 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase/1.1.1/hbase-1.1.1.pom
+2017-10-05 17:38:36,293 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-annotations/1.1.1/hbase-annotations-1.1.1.pom
+2017-10-05 17:38:36,566 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-annotations/1.1.1/hbase-annotations-1.1.1.pom
+2017-10-05 17:38:36,974 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-common/1.1.1/hbase-common-1.1.1.pom
+2017-10-05 17:38:37,304 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-common/1.1.1/hbase-common-1.1.1.pom
+2017-10-05 17:38:37,587 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-protocol/1.1.1/hbase-protocol-1.1.1.pom
+2017-10-05 17:38:37,868 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-protocol/1.1.1/hbase-protocol-1.1.1.pom
+2017-10-05 17:38:38,185 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.5.1/hadoop-common-2.5.1.pom
+2017-10-05 17:38:38,528 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.5.1/hadoop-common-2.5.1.pom
+2017-10-05 17:38:38,794 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.5.1/hadoop-project-dist-2.5.1.pom
+2017-10-05 17:38:39,114 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.5.1/hadoop-project-dist-2.5.1.pom
+2017-10-05 17:38:39,391 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.5.1/hadoop-project-2.5.1.pom
+2017-10-05 17:38:39,837 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.5.1/hadoop-project-2.5.1.pom
+2017-10-05 17:38:40,106 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.5.1/hadoop-main-2.5.1.pom
+2017-10-05 17:38:40,445 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.5.1/hadoop-main-2.5.1.pom
+2017-10-05 17:38:40,709 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.5.1/hadoop-annotations-2.5.1.pom
+2017-10-05 17:38:40,976 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.5.1/hadoop-annotations-2.5.1.pom
+2017-10-05 17:38:41,263 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.5.1/hadoop-auth-2.5.1.pom
+2017-10-05 17:38:41,591 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.5.1/hadoop-auth-2.5.1.pom
+2017-10-05 17:38:41,880 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1.pom
+2017-10-05 17:38:42,151 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.5.1/hadoop-mapreduce-client-core-2.5.1.pom
+2017-10-05 17:38:42,417 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.5.1/hadoop-mapreduce-client-2.5.1.pom
+2017-10-05 17:38:42,715 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.5.1/hadoop-mapreduce-client-2.5.1.pom
+2017-10-05 17:38:43,013 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.5.1/hadoop-yarn-common-2.5.1.pom
+2017-10-05 17:38:43,310 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.5.1/hadoop-yarn-common-2.5.1.pom
+2017-10-05 17:38:43,593 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.5.1/hadoop-yarn-2.5.1.pom
+2017-10-05 17:38:43,869 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.5.1/hadoop-yarn-2.5.1.pom
+2017-10-05 17:38:44,131 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.5.1/hadoop-yarn-api-2.5.1.pom
+2017-10-05 17:38:44,396 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.5.1/hadoop-yarn-api-2.5.1.pom
+2017-10-05 17:38:45,128 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.pom
+2017-10-05 17:38:45,463 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.pom
+2017-10-05 17:38:45,834 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-api-jdo/4.2.4/datanucleus-api-jdo-4.2.4.pom
+2017-10-05 17:38:46,125 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-api-jdo/4.2.4/datanucleus-api-jdo-4.2.4.pom
+2017-10-05 17:38:46,389 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-maven-parent/4.0.5/datanucleus-maven-parent-4.0.5.pom
+2017-10-05 17:38:46,714 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-maven-parent/4.0.5/datanucleus-maven-parent-4.0.5.pom
+2017-10-05 17:38:47,068 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-core/4.1.17/datanucleus-core-4.1.17.pom
+2017-10-05 17:38:47,377 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-core/4.1.17/datanucleus-core-4.1.17.pom
+2017-10-05 17:38:47,661 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-rdbms/4.1.19/datanucleus-rdbms-4.1.19.pom
+2017-10-05 17:38:47,958 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/datanucleus/datanucleus-rdbms/4.1.19/datanucleus-rdbms-4.1.19.pom
+2017-10-05 17:38:48,434 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/datanucleus/javax.jdo/3.2.0-m3/javax.jdo-3.2.0-m3.pom
+2017-10-05 17:38:48,715 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/datanucleus/javax.jdo/3.2.0-m3/javax.jdo-3.2.0-m3.pom
+2017-10-05 17:38:48,996 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/transaction-api/1.1/transaction-api-1.1.pom
+2017-10-05 17:38:49,302 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/transaction-api/1.1/transaction-api-1.1.pom
+2017-10-05 17:38:49,968 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-api/0.6.0/tephra-api-0.6.0.pom
+2017-10-05 17:38:50,266 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-api/0.6.0/tephra-api-0.6.0.pom
+2017-10-05 17:38:50,549 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/co/cask/tephra/tephra/0.6.0/tephra-0.6.0.pom
+2017-10-05 17:38:50,896 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/co/cask/tephra/tephra/0.6.0/tephra-0.6.0.pom
+2017-10-05 17:38:51,169 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-core/0.6.0/tephra-core-0.6.0.pom
+2017-10-05 17:38:51,441 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-core/0.6.0/tephra-core-0.6.0.pom
+2017-10-05 17:38:51,726 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.pom
+2017-10-05 17:38:52,004 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.pom
+2017-10-05 17:38:52,265 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/13.0.1/guava-parent-13.0.1.pom
+2017-10-05 17:38:52,544 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/13.0.1/guava-parent-13.0.1.pom
+2017-10-05 17:38:52,827 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0.pom
+2017-10-05 17:38:53,104 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0.pom
+2017-10-05 17:38:53,696 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/6.5.6/fastutil-6.5.6.pom
+2017-10-05 17:38:54,127 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/6.5.6/fastutil-6.5.6.pom
+2017-10-05 17:38:54,412 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-common/0.6.0-incubating/twill-common-0.6.0-incubating.pom
+2017-10-05 17:38:54,686 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-common/0.6.0-incubating/twill-common-0.6.0-incubating.pom
+2017-10-05 17:38:54,947 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-parent/0.6.0-incubating/twill-parent-0.6.0-incubating.pom
+2017-10-05 17:38:55,464 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-parent/0.6.0-incubating/twill-parent-0.6.0-incubating.pom
+2017-10-05 17:38:55,727 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-core/0.6.0-incubating/twill-core-0.6.0-incubating.pom
+2017-10-05 17:38:56,001 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-core/0.6.0-incubating/twill-core-0.6.0-incubating.pom
+2017-10-05 17:38:56,271 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-api/0.6.0-incubating/twill-api-0.6.0-incubating.pom
+2017-10-05 17:38:56,532 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-api/0.6.0-incubating/twill-api-0.6.0-incubating.pom
+2017-10-05 17:38:56,811 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-discovery-api/0.6.0-incubating/twill-discovery-api-0.6.0-incubating.pom
+2017-10-05 17:38:57,101 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-discovery-api/0.6.0-incubating/twill-discovery-api-0.6.0-incubating.pom
+2017-10-05 17:38:57,368 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-zookeeper/0.6.0-incubating/twill-zookeeper-0.6.0-incubating.pom
+2017-10-05 17:38:57,636 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-zookeeper/0.6.0-incubating/twill-zookeeper-0.6.0-incubating.pom
+2017-10-05 17:38:57,967 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/twill/twill-discovery-core/0.6.0-incubating/twill-discovery-core-0.6.0-incubating.pom
+2017-10-05 17:38:58,231 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/twill/twill-discovery-core/0.6.0-incubating/twill-discovery-core-0.6.0-incubating.pom
+2017-10-05 17:38:58,526 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-hbase-compat-1.0/0.6.0/tephra-hbase-compat-1.0-0.6.0.pom
+2017-10-05 17:38:58,789 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/co/cask/tephra/tephra-hbase-compat-1.0/0.6.0/tephra-hbase-compat-1.0-0.6.0.pom
+2017-10-05 17:38:59,090 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.0.9/logback-classic-1.0.9.pom
+2017-10-05 17:38:59,389 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.0.9/logback-classic-1.0.9.pom
+2017-10-05 17:38:59,678 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.0.9/logback-parent-1.0.9.pom
+2017-10-05 17:38:59,979 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.0.9/logback-parent-1.0.9.pom
+2017-10-05 17:39:00,250 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.0.9/logback-core-1.0.9.pom
+2017-10-05 17:39:00,564 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.0.9/logback-core-1.0.9.pom
+2017-10-05 17:39:00,878 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-all/5.0.2/asm-all-5.0.2.pom
+2017-10-05 17:39:01,293 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-all/5.0.2/asm-all-5.0.2.pom
+2017-10-05 17:39:01,655 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-server/2.3.0/hive-llap-server-2.3.0.pom
+2017-10-05 17:39:01,959 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-server/2.3.0/hive-llap-server-2.3.0.pom
+2017-10-05 17:39:02,248 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-common/2.3.0/hive-llap-common-2.3.0.pom
+2017-10-05 17:39:02,546 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-common/2.3.0/hive-llap-common-2.3.0.pom
+2017-10-05 17:39:02,812 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-client/2.3.0/hive-llap-client-2.3.0.pom
+2017-10-05 17:39:03,088 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-client/2.3.0/hive-llap-client-2.3.0.pom
+2017-10-05 17:39:03,392 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-tez/2.3.0/hive-llap-tez-2.3.0.pom
+2017-10-05 17:39:03,675 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-llap-tez/2.3.0/hive-llap-tez-2.3.0.pom
+2017-10-05 17:39:03,951 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/slider/slider-core/0.90.2-incubating/slider-core-0.90.2-incubating.pom
+2017-10-05 17:39:04,360 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/slider/slider-core/0.90.2-incubating/slider-core-0.90.2-incubating.pom
+2017-10-05 17:39:04,625 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/slider/slider/0.90.2-incubating/slider-0.90.2-incubating.pom
+2017-10-05 17:39:05,152 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/slider/slider/0.90.2-incubating/slider-0.90.2-incubating.pom
+2017-10-05 17:39:05,468 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.30/jcommander-1.30.pom
+2017-10-05 17:39:05,748 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.30/jcommander-1.30.pom
+2017-10-05 17:39:06,039 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.7.1/hadoop-client-2.7.1.pom
+2017-10-05 17:39:06,360 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.7.1/hadoop-client-2.7.1.pom
+2017-10-05 17:39:06,638 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.7.1/hadoop-project-dist-2.7.1.pom
+2017-10-05 17:39:06,945 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.7.1/hadoop-project-dist-2.7.1.pom
+2017-10-05 17:39:07,210 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.7.1/hadoop-project-2.7.1.pom
+2017-10-05 17:39:07,631 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.7.1/hadoop-project-2.7.1.pom
+2017-10-05 17:39:07,945 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.7.1/hadoop-main-2.7.1.pom
+2017-10-05 17:39:08,260 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.7.1/hadoop-main-2.7.1.pom
+2017-10-05 17:39:08,544 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.7.1/hadoop-hdfs-2.7.1.pom
+2017-10-05 17:39:08,909 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.7.1/hadoop-hdfs-2.7.1.pom
+2017-10-05 17:39:09,243 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.7.1/hadoop-mapreduce-client-app-2.7.1.pom
+2017-10-05 17:39:09,509 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.7.1/hadoop-mapreduce-client-app-2.7.1.pom
+2017-10-05 17:39:09,786 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.7.1/hadoop-mapreduce-client-2.7.1.pom
+2017-10-05 17:39:10,054 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.7.1/hadoop-mapreduce-client-2.7.1.pom
+2017-10-05 17:39:10,337 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.1/hadoop-mapreduce-client-common-2.7.1.pom
+2017-10-05 17:39:10,621 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.7.1/hadoop-mapreduce-client-common-2.7.1.pom
+2017-10-05 17:39:10,886 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.7.1/hadoop-yarn-common-2.7.1.pom
+2017-10-05 17:39:11,186 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.7.1/hadoop-yarn-common-2.7.1.pom
+2017-10-05 17:39:11,463 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.7.1/hadoop-yarn-2.7.1.pom
+2017-10-05 17:39:11,762 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn/2.7.1/hadoop-yarn-2.7.1.pom
+2017-10-05 17:39:12,025 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.7.1/hadoop-yarn-api-2.7.1.pom
+2017-10-05 17:39:12,302 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.7.1/hadoop-yarn-api-2.7.1.pom
+2017-10-05 17:39:12,583 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.1/hadoop-mapreduce-client-core-2.7.1.pom
+2017-10-05 17:39:12,858 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.1/hadoop-mapreduce-client-core-2.7.1.pom
+2017-10-05 17:39:13,180 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.7.1/hadoop-yarn-server-common-2.7.1.pom
+2017-10-05 17:39:13,482 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.7.1/hadoop-yarn-server-common-2.7.1.pom
+2017-10-05 17:39:13,762 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.7.1/hadoop-yarn-server-2.7.1.pom
+2017-10-05 17:39:14,055 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.7.1/hadoop-yarn-server-2.7.1.pom
+2017-10-05 17:39:14,337 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.7.1/hadoop-mapreduce-client-shuffle-2.7.1.pom
+2017-10-05 17:39:14,605 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.7.1/hadoop-mapreduce-client-shuffle-2.7.1.pom
+2017-10-05 17:39:14,898 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.7.1/hadoop-mapreduce-client-jobclient-2.7.1.pom
+2017-10-05 17:39:15,181 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.7.1/hadoop-mapreduce-client-jobclient-2.7.1.pom
+2017-10-05 17:39:15,468 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.7.1/hadoop-yarn-server-nodemanager-2.7.1.pom
+2017-10-05 17:39:15,760 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.7.1/hadoop-yarn-server-nodemanager-2.7.1.pom
+2017-10-05 17:39:16,033 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.7.1/hadoop-annotations-2.7.1.pom
+2017-10-05 17:39:16,291 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.7.1/hadoop-annotations-2.7.1.pom
+2017-10-05 17:39:16,597 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-registry/2.7.1/hadoop-yarn-registry-2.7.1.pom
+2017-10-05 17:39:16,873 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-registry/2.7.1/hadoop-yarn-registry-2.7.1.pom
+2017-10-05 17:39:17,175 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.pom
+2017-10-05 17:39:17,444 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.pom
+2017-10-05 17:39:17,873 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-hadoop2-compat/1.1.1/hbase-hadoop2-compat-1.1.1.pom
+2017-10-05 17:39:18,157 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-hadoop2-compat/1.1.1/hbase-hadoop2-compat-1.1.1.pom
+2017-10-05 17:39:18,435 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-hadoop-compat/1.1.1/hbase-hadoop-compat-1.1.1.pom
+2017-10-05 17:39:18,701 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-hadoop-compat/1.1.1/hbase-hadoop-compat-1.1.1.pom
+2017-10-05 17:39:19,125 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-server/1.1.1/hbase-server-1.1.1.pom
+2017-10-05 17:39:19,487 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-server/1.1.1/hbase-server-1.1.1.pom
+2017-10-05 17:39:19,789 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-procedure/1.1.1/hbase-procedure-1.1.1.pom
+2017-10-05 17:39:20,061 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-procedure/1.1.1/hbase-procedure-1.1.1.pom
+2017-10-05 17:39:20,351 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-prefix-tree/1.1.1/hbase-prefix-tree-1.1.1.pom
+2017-10-05 17:39:20,649 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hbase/hbase-prefix-tree/1.1.1/hbase-prefix-tree-1.1.1.pom
+2017-10-05 17:39:21,110 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jamon/jamon-runtime/2.3.1/jamon-runtime-2.3.1.pom
+2017-10-05 17:39:21,396 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jamon/jamon-runtime/2.3.1/jamon-runtime-2.3.1.pom
+2017-10-05 17:39:21,659 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jamon/jamon-project/1.0.2/jamon-project-1.0.2.pom
+2017-10-05 17:39:21,937 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jamon/jamon-project/1.0.2/jamon-project-1.0.2.pom
+2017-10-05 17:39:22,229 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/lmax/disruptor/3.3.0/disruptor-3.3.0.pom
+2017-10-05 17:39:22,496 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/lmax/disruptor/3.3.0/disruptor-3.3.0.pom
+2017-10-05 17:39:22,789 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.5.1/hadoop-client-2.5.1.pom
+2017-10-05 17:39:23,075 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.5.1/hadoop-client-2.5.1.pom
+2017-10-05 17:39:23,341 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.5.1/hadoop-hdfs-2.5.1.pom
+2017-10-05 17:39:23,676 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.5.1/hadoop-hdfs-2.5.1.pom
+2017-10-05 17:39:23,961 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.5.1/hadoop-mapreduce-client-app-2.5.1.pom
+2017-10-05 17:39:24,230 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.5.1/hadoop-mapreduce-client-app-2.5.1.pom
+2017-10-05 17:39:24,496 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.5.1/hadoop-mapreduce-client-common-2.5.1.pom
+2017-10-05 17:39:24,772 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.5.1/hadoop-mapreduce-client-common-2.5.1.pom
+2017-10-05 17:39:25,053 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.5.1/hadoop-yarn-client-2.5.1.pom
+2017-10-05 17:39:25,316 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.5.1/hadoop-yarn-client-2.5.1.pom
+2017-10-05 17:39:25,581 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.5.1/hadoop-yarn-server-common-2.5.1.pom
+2017-10-05 17:39:25,867 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.5.1/hadoop-yarn-server-common-2.5.1.pom
+2017-10-05 17:39:26,165 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.5.1/hadoop-yarn-server-2.5.1.pom
+2017-10-05 17:39:26,421 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.5.1/hadoop-yarn-server-2.5.1.pom
+2017-10-05 17:39:26,685 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.5.1/hadoop-mapreduce-client-shuffle-2.5.1.pom
+2017-10-05 17:39:26,961 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.5.1/hadoop-mapreduce-client-shuffle-2.5.1.pom
+2017-10-05 17:39:27,225 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.5.1/hadoop-mapreduce-client-jobclient-2.5.1.pom
+2017-10-05 17:39:27,493 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.5.1/hadoop-mapreduce-client-jobclient-2.5.1.pom
+2017-10-05 17:39:27,758 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.5.1/hadoop-yarn-server-nodemanager-2.5.1.pom
+2017-10-05 17:39:28,061 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.5.1/hadoop-yarn-server-nodemanager-2.5.1.pom
+2017-10-05 17:39:29,460 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:39:29,461 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:39:29,463 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:39:29,463 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:41:27,275 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-05 17:41:28,979 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:41:37,361 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/main/java
+2017-10-05 17:41:37,362 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/test/java
+2017-10-05 17:41:38,160 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2017-10-05 17:41:39,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:41:39,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:41:39,488 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:41:39,488 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:43:01,145 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:43:01,145 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:43:01,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:43:01,146 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:43:54,039 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:43:54,040 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:43:54,043 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:43:54,044 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:44:43,415 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:44:43,553 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:44:43,554 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:44:43,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:44:43,556 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:44:44,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:44:44,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:44:44,730 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:44:44,730 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:46:18,798 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-05 17:46:19,265 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:46:19,429 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/main/java
+2017-10-05 17:46:19,430 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiveJdbcClientv1/src/test/java
+2017-10-05 17:46:19,643 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-10-05 17:46:19,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:46:19,902 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:46:19,904 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:46:19,905 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:47:28,624 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:47:30,254 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:47:30,254 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:47:30,256 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:47:30,256 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:47:33,496 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:47:35,686 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:47:35,687 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:47:35,688 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:47:35,689 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:48:38,047 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:48:40,065 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.8.1/hadoop-common-2.8.1.pom
+2017-10-05 17:48:40,497 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.8.1/hadoop-common-2.8.1.pom
+2017-10-05 17:48:40,675 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.8.1/hadoop-common-2.8.1.pom
+2017-10-05 17:48:40,960 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.8.1/hadoop-project-dist-2.8.1.pom
+2017-10-05 17:48:41,102 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.8.1/hadoop-common-2.8.1.pom
+2017-10-05 17:48:41,263 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.8.1/hadoop-project-dist-2.8.1.pom
+2017-10-05 17:48:41,539 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.8.1/hadoop-project-2.8.1.pom
+2017-10-05 17:48:41,616 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.8.1/hadoop-project-dist-2.8.1.pom
+2017-10-05 17:48:41,926 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.8.1/hadoop-project-dist-2.8.1.pom
+2017-10-05 17:48:42,059 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.8.1/hadoop-project-2.8.1.pom
+2017-10-05 17:48:42,357 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.8.1/hadoop-main-2.8.1.pom
+2017-10-05 17:48:42,458 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.8.1/hadoop-project-2.8.1.pom
+2017-10-05 17:48:42,670 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.8.1/hadoop-main-2.8.1.pom
+2017-10-05 17:48:42,930 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.8.1/hadoop-annotations-2.8.1.pom
+2017-10-05 17:48:42,987 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.8.1/hadoop-project-2.8.1.pom
+2017-10-05 17:48:43,198 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.8.1/hadoop-annotations-2.8.1.pom
+2017-10-05 17:48:43,493 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.8.1/hadoop-annotations-2.8.1.pom
+2017-10-05 17:48:43,597 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.8.1/hadoop-auth-2.8.1.pom
+2017-10-05 17:48:43,838 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.8.1/hadoop-annotations-2.8.1.pom
+2017-10-05 17:48:43,856 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.8.1/hadoop-auth-2.8.1.pom
+2017-10-05 17:48:44,147 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/3.9/nimbus-jose-jwt-3.9.pom
+2017-10-05 17:48:44,149 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/3.9/nimbus-jose-jwt-3.9.pom
+2017-10-05 17:48:44,426 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/3.9/nimbus-jose-jwt-3.9.pom
+2017-10-05 17:48:44,442 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/nimbus-jose-jwt/3.9/nimbus-jose-jwt-3.9.pom
+2017-10-05 17:48:44,822 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.51/jsch-0.1.51.pom
+2017-10-05 17:48:44,837 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.51/jsch-0.1.51.pom
+2017-10-05 17:48:45,076 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.51/jsch-0.1.51.pom
+2017-10-05 17:48:45,115 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.51/jsch-0.1.51.pom
+2017-10-05 17:48:45,368 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.pom
+2017-10-05 17:48:45,378 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.pom
+2017-10-05 17:48:45,623 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.pom
+2017-10-05 17:48:45,648 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.pom
+2017-10-05 17:48:45,880 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/htrace/htrace/4.0.1-incubating/htrace-4.0.1-incubating.pom
+2017-10-05 17:48:45,918 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/htrace/htrace/4.0.1-incubating/htrace-4.0.1-incubating.pom
+2017-10-05 17:48:46,165 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/htrace/htrace/4.0.1-incubating/htrace-4.0.1-incubating.pom
+2017-10-05 17:48:46,216 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/htrace/htrace/4.0.1-incubating/htrace-4.0.1-incubating.pom
+2017-10-05 17:48:46,939 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:48:46,939 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:48:46,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:48:46,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:50:06,868 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:50:08,583 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:08,584 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:50:08,586 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:08,586 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:50:09,937 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:50:11,491 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:11,491 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:50:11,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:11,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:50:23,691 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:50:25,383 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:25,383 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:50:25,384 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:25,385 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:50:26,878 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:50:28,443 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:28,443 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:50:28,445 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:50:28,445 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:56:04,485 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:56:04,654 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:56:04,654 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:56:04,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:56:04,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:56:05,779 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:56:05,779 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:56:05,780 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:56:05,781 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:57:44,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:57:44,688 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:57:44,689 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:57:44,689 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:59:11,196 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 17:59:13,047 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:59:13,047 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 17:59:13,049 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 17:59:13,049 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 17:59:25,778 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-05 18:00:59,676 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 18:01:02,751 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hive/hive-common/0.7.1-cdh3u6/hive-common-0.7.1-cdh3u6.pom
+2017-10-05 18:01:02,755 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:01:03,666 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:01:03,667 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:01:03,668 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:01:03,668 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:01:12,479 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:04:28,033 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:04:28,033 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:04:28,034 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:04:28,034 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:06:55,880 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:06:55,881 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:06:55,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:06:55,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:07:33,089 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:07:33,089 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:07:33,090 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:07:33,090 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:09:15,638 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 18:09:16,791 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:09:18,165 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.0/hadoop-client-2.6.0.pom
+2017-10-05 18:09:18,465 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-client/2.6.0/hadoop-client-2.6.0.pom
+2017-10-05 18:09:18,728 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0.pom
+2017-10-05 18:09:19,243 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-hdfs/2.6.0/hadoop-hdfs-2.6.0.pom
+2017-10-05 18:09:19,537 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.0/hadoop-mapreduce-client-app-2.6.0.pom
+2017-10-05 18:09:19,796 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.6.0/hadoop-mapreduce-client-app-2.6.0.pom
+2017-10-05 18:09:20,054 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.6.0/hadoop-mapreduce-client-2.6.0.pom
+2017-10-05 18:09:20,320 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client/2.6.0/hadoop-mapreduce-client-2.6.0.pom
+2017-10-05 18:09:20,582 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.0/hadoop-mapreduce-client-common-2.6.0.pom
+2017-10-05 18:09:20,843 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.6.0/hadoop-mapreduce-client-common-2.6.0.pom
+2017-10-05 18:09:21,170 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.0/hadoop-yarn-client-2.6.0.pom
+2017-10-05 18:09:21,431 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.6.0/hadoop-yarn-client-2.6.0.pom
+2017-10-05 18:09:21,693 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0.pom
+2017-10-05 18:09:21,966 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0/hadoop-mapreduce-client-core-2.6.0.pom
+2017-10-05 18:09:22,280 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.0/hadoop-mapreduce-client-shuffle-2.6.0.pom
+2017-10-05 18:09:22,598 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.6.0/hadoop-mapreduce-client-shuffle-2.6.0.pom
+2017-10-05 18:09:22,863 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.0/hadoop-mapreduce-client-jobclient-2.6.0.pom
+2017-10-05 18:09:23,125 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.6.0/hadoop-mapreduce-client-jobclient-2.6.0.pom
+2017-10-05 18:09:23,391 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.6.0/hadoop-yarn-server-nodemanager-2.6.0.pom
+2017-10-05 18:09:23,667 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.6.0/hadoop-yarn-server-nodemanager-2.6.0.pom
+2017-10-05 18:09:24,428 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:09:24,429 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:09:24,430 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:09:24,430 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:09:31,233 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:10:08,585 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 18:10:09,666 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:10:10,347 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:10:10,348 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:10:10,349 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:10:10,349 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:10:18,810 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:14:07,952 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 18:14:09,107 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:14:10,536 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0.pom
+2017-10-05 18:14:10,793 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0.pom
+2017-10-05 18:14:11,524 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:14:11,524 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:14:11,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:14:11,526 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 18:14:17,408 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:52:57,545 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 18:53:07,702 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 18:53:10,252 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:53:10,253 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 18:53:10,255 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 18:53:10,255 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:02:03,271 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.hadoop.hive:hive-common:pom:0.7.1-cdh3u6 is missing, no dependency information available
+2017-10-05 19:05:09,394 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 19:05:09,801 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:09,802 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:05:09,803 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:09,803 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:05:11,465 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:11,466 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:05:11,466 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:11,466 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:05:50,968 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:50,969 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:05:50,970 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:05:50,970 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:11:08,958 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:08,975 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:11:08,977 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:08,977 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:11:13,815 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:13,815 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:11:13,816 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:13,816 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:11:17,893 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:17,893 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:11:17,894 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:17,894 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:11:58,956 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:58,957 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:11:58,958 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:11:58,958 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:12:41,403 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:12:41,403 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:12:41,405 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:12:41,405 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:12:45,805 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:12:45,805 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:12:45,806 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:12:45,806 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:13:22,068 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:13:22,069 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:13:22,069 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:13:22,069 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:13:47,475 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:13:47,476 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:13:47,477 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:13:47,478 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:14:55,511 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:14:55,511 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:14:55,512 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:14:55,512 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:15:02,289 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:15:02,289 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:15:02,290 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:15:02,291 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:17:09,170 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:17:09,170 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:17:09,171 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:17:09,171 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:17:40,379 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:17:40,379 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:17:40,380 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:17:40,380 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:18:31,340 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 19:18:41,037 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:18:41,037 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:18:41,038 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:18:41,039 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:21:02,804 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 19:21:04,517 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:21:04,518 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:21:04,519 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:21:04,519 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:21:57,562 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 19:21:58,932 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:21:58,932 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:21:58,933 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:21:58,934 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:22:01,606 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-05 19:22:03,059 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:22:03,060 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:22:03,061 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:22:03,061 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-05 19:24:51,256 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: example.org:hive-jdbc-sample:1.0-SNAPSHOT @ C:\Users\bizruntime41\Desktop\hive-jdbc-sample\pom.xml.
+2017-10-05 19:24:52,721 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-jdbc/0.12.0/hive-jdbc-0.12.0.pom
+2017-10-05 19:24:52,987 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-jdbc/0.12.0/hive-jdbc-0.12.0.pom
+2017-10-05 19:24:53,266 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-cli/0.12.0/hive-cli-0.12.0.pom
+2017-10-05 19:24:53,562 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-cli/0.12.0/hive-cli-0.12.0.pom
+2017-10-05 19:24:53,829 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-service/0.12.0/hive-service-0.12.0.pom
+2017-10-05 19:24:54,093 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-service/0.12.0/hive-service-0.12.0.pom
+2017-10-05 19:24:54,386 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-exec/0.12.0/hive-exec-0.12.0.pom
+2017-10-05 19:24:54,689 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-exec/0.12.0/hive-exec-0.12.0.pom
+2017-10-05 19:24:54,966 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-metastore/0.12.0/hive-metastore-0.12.0.pom
+2017-10-05 19:24:55,228 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-metastore/0.12.0/hive-metastore-0.12.0.pom
+2017-10-05 19:24:55,850 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-serde/0.12.0/hive-serde-0.12.0.pom
+2017-10-05 19:24:56,113 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-serde/0.12.0/hive-serde-0.12.0.pom
+2017-10-05 19:24:56,376 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-common/0.12.0/hive-common-0.12.0.pom
+2017-10-05 19:24:56,643 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-common/0.12.0/hive-common-0.12.0.pom
+2017-10-05 19:24:56,915 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hive/hive-shims/0.12.0/hive-shims-0.12.0.pom
+2017-10-05 19:24:57,425 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hive/hive-shims/0.12.0/hive-shims-0.12.0.pom
+2017-10-05 19:24:58,920 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.4.0/hadoop-common-2.4.0.pom
+2017-10-05 19:24:59,312 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-common/2.4.0/hadoop-common-2.4.0.pom
+2017-10-05 19:24:59,585 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.4.0/hadoop-project-dist-2.4.0.pom
+2017-10-05 19:24:59,876 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project-dist/2.4.0/hadoop-project-dist-2.4.0.pom
+2017-10-05 19:25:00,138 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.4.0/hadoop-project-2.4.0.pom
+2017-10-05 19:25:00,477 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-project/2.4.0/hadoop-project-2.4.0.pom
+2017-10-05 19:25:00,741 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.4.0/hadoop-main-2.4.0.pom
+2017-10-05 19:25:01,027 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-main/2.4.0/hadoop-main-2.4.0.pom
+2017-10-05 19:25:01,322 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.4.0/hadoop-annotations-2.4.0.pom
+2017-10-05 19:25:01,591 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-annotations/2.4.0/hadoop-annotations-2.4.0.pom
+2017-10-05 19:25:01,992 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.4.0/hadoop-auth-2.4.0.pom
+2017-10-05 19:25:02,251 [Worker-70] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/hadoop/hadoop-auth/2.4.0/hadoop-auth-2.4.0.pom
+2017-10-05 19:25:03,445 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hive-jdbc-sample/src/main/java
+2017-10-05 19:25:03,445 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hive-jdbc-sample/src/test/java
+2017-10-05 19:25:03,660 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2017-10-05 19:25:05,117 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-05 19:25:05,151 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Desktop\hive-jdbc-sample\src\main\resources
+2017-10-05 19:25:05,152 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-05 19:25:05,162 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Desktop\hive-jdbc-sample\src\test\resources
+2017-10-05 19:36:40,612 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:36:40,612 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-05 19:36:40,613 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-05 19:36:40,613 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-07 16:42:12,842 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-07 16:42:26,117 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bizruntime:HiveJdbcClientv1:0.0.1-SNAPSHOT @ C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\pom.xml.
+2017-10-07 16:42:32,307 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-07 16:42:32,307 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\main\resources
+2017-10-07 16:42:32,309 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-07 16:42:32,309 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Documents\java\Spark_Graphx\HiveJdbcClientv1\src\test\resources
+2017-10-07 16:42:32,412 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: example.org:hive-jdbc-sample:1.0-SNAPSHOT @ C:\Users\bizruntime41\Desktop\hive-jdbc-sample\pom.xml.
+2017-10-07 16:42:34,538 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-07 16:42:34,540 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Desktop\hive-jdbc-sample\src\main\resources
+2017-10-07 16:42:34,541 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-07 16:42:34,543 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bizruntime41\Desktop\hive-jdbc-sample\src\test\resources

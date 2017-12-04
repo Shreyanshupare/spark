@@ -1,0 +1,11 @@
+package org.bizruntime.algorithms;
+
+public class K_means {
+
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}
